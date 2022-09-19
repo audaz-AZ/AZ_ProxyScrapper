@@ -1,6 +1,6 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F716&vCenter=true&lines=%C2%A1+AZ+Proxy+Scrapper)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F716&vCenter=true&lines=+AZ+Proxy+Scrapper)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0097F7&vCenter=true&lines=Me+presento+%2C+soy+audaz)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0097F7&vCenter=true&lines=A+Simple+Proxys+Scrapper)](https://git.io/typing-svg)
 Scrapper of Proxyes
 <h1 align="center">Welcome to AZ_ProxyScrapper</h1>
 <h3 align="center">An Scrapper of proxys</h3>
